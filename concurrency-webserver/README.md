@@ -49,7 +49,7 @@ server's file system. The simplest is *static* content, in which a client
 sends a request just to read a specific file from the server. Slightly more
 complex is *dynamic* content, in which a client requests that an executable
 file be run on the web server and its output returned to the client.
-Each file has a unique name known as a **URL** (**Universal Resource
+Each file has a unique name known as a **URL** (**Uniform Resource
 Locator**). 
 
 As a simple example, let's say the client browser wants to fetch static
